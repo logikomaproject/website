@@ -13,5 +13,5 @@ If you find a bug/exploit, let the organisers know immediately. Be nice, or we'l
 Good luck. Have fun.
 
 
-If you've succeeded in Challenge 2, you'll see a picture below:
-[image]:https://api.mybits.work/img/image.gif
+If you've succeeded in Challenge 2, you'll see a picture below:<br />
+![image](:)https://api.mybits.work/img/image.gif)
