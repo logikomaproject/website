@@ -3,6 +3,8 @@
 Let's have some fun with SubDomain Exploitation.<br />
 We'll be using the domain `mybits.work` for this CTF.
 
+The fist flag, should be relatively easy to find. It will contain information about the other flags.
+
 During this journey, you many need to create/use your own service accounts to attain some flags. Most of the flags can be found by interrogating public DNS related infrastructure.
 
 There are no active attacks in this CTF. Please **do not** attack any of the infrastructure.

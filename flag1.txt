@@ -10,7 +10,7 @@ Welcome to the SubDomain Exploitation CTF. Congratulations on finding the first 
 This should have gotten you all warmed-up.
 
 
-The flag for this challenge is 
+The flag for Challenge 1 is 
 flag{go.mybits.work}
 
 
@@ -26,7 +26,7 @@ where x is the next flag.
 
 For the final flag, you'll need to be creative.
 Using the usual DNS tools you've been using won't really help you here.
-You'll see flag{win} when you find the end.
+You'll see flag{win} when you find the end. Open the file to find the flag to submit.
 
 Well, we've also hidden things in the DNS recods around just for fun.
 Good luck. Have fun.
