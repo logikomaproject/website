@@ -1,0 +1,38 @@
+ __      __       .__                                  _________              __         .__   __            
+/  \    /  \ ____ |  |   ____  ____   _____   ____    /   _____/ ____   _____/  |______  |  | |  | __  ______
+\   \/\/   // __ \|  | _/ ___\/  _ \ /     \_/ __ \   \_____  \_/ __ \_/ ___\   __\__  \ |  | |  |/ / /  ___/
+ \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/   /        \  ___/\  \___|  |  / __ \|  |_|    <  \___ \ 
+  \__/\  /  \___  >____/\___  >____/|__|_|  /\___  > /_______  /\___  >\___  >__| (____  /____/__|_ \/____  >
+       \/       \/          \/            \/     \/          \/     \/     \/          \/          \/     \/ 
+Melbourne ====================================================================================================
+
+Welcome to the SubDomain Exploitation CTF. Congratulations on finding the first flag. 
+This should have gotten you all warmed-up.
+
+
+The flag for this challenge is 
+flag{go.mybits.work}
+
+
+Exposed Amazon S3 Buckets have been a common issue for many organisations.
+Especially, since it's typical for a developer to use more than one S3 Bucket; they can sometimes forget they exist.
+
+
+
+In the S3 Bucket which you found this text file, you will find a "image.gif" file.
+You will need to serve the file so that the file can be assessed via "x.mybits.work/image.gif";
+where x is the next flag.
+
+
+For the final flag, you'll need to be creative.
+Using the usual DNS tools you've been using won't really help you here.
+You'll see flag{win} when you find the end.
+
+Well, we've also hidden things in the DNS recods around just for fun.
+Good luck. Have fun.
+
+
+Note:
+You should be able to do it all with OSINT and Passive Recon tools.
+Please do not attack the infrastructure. We don't have permission to do so, so that'll be illegal.
+
