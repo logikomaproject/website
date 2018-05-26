@@ -14,4 +14,4 @@ Good luck. Have fun.
 
 
 If you've succeeded in Challenge 2, you'll see a picture below:<br />
-![image](:)https://api.mybits.work/img/image.gif)
+![image](https://api.mybits.work/img/image.gif)
