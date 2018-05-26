@@ -21,7 +21,8 @@ Especially, since it's typical for a developer to use more than one S3 Bucket; t
 
 In the S3 Bucket which you found this text file, you will find a "image.gif" file.
 You will need to serve the file so that the file can be assessed via "x.mybits.work/image.gif";
-where x is the next flag.
+where x is the next subdomain you'll need to find. Replace the `x`, and the flag is flag{fqdn}.
+
 
 
 For the final flag, you'll need to be creative.
