@@ -11,7 +11,7 @@ This should have gotten you all warmed-up.
 
 
 The flag for Challenge 1 is 
-flag{go.mybits.work}
+flag{do.mybits.work}
 
 
 Exposed Amazon S3 Buckets have been a common issue for many organisations.
@@ -31,5 +31,5 @@ Using the usual DNS tools you've been using won't really help you here.
 You'll see flag{win} when you reach the end. Open the file to find the flag to submit.
 
 
-Well, we've also hidden things in the DNS recods around just for fun.
+Well, we've also hidden things in the DNS records around just for fun.
 Good luck. Have fun.
